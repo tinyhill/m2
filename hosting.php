@@ -47,7 +47,7 @@ Template Name: 美国主机推荐
 						<p><a target="_blank" href="http://www.linode.com/?r=f1f14331bd4d366782ca5dfd24d9ecef8ac0cab5"><img src="<?php bloginfo('template_url');?>/assets/rate_5.png"></a></p>
 					</td>
 					<td class="score">
-						<a target="_blank" href="http://www.linode.com/?r=f1f14331bd4d366782ca5dfd24d9ecef8ac0cab5">90%</a>
+						<a target="_blank" href="http://www.linode.com/?r=f1f14331bd4d366782ca5dfd24d9ecef8ac0cab5">100%</a>
 					</td>
 					<td class="website">
 						<a target="_blank" href="http://www.linode.com/?r=f1f14331bd4d366782ca5dfd24d9ecef8ac0cab5">去看看</a>
@@ -80,7 +80,7 @@ Template Name: 美国主机推荐
 						<p><a target="_blank" href="https://www.digitalocean.com/?refcode=7eca605fc960"><img src="<?php bloginfo('template_url');?>/assets/rate_5.png"></a></p>
 					</td>
 					<td class="score">
-						<a target="_blank" href="https://www.digitalocean.com/?refcode=7eca605fc960">98%</a>
+						<a target="_blank" href="https://www.digitalocean.com/?refcode=7eca605fc960">100%</a>
 					</td>
 					<td class="website">
 						<a target="_blank" href="https://www.digitalocean.com/?refcode=7eca605fc960">去看看</a>
