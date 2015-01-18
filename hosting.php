@@ -38,7 +38,7 @@ Template Name: 美国主机推荐
 						<a target="_blank" href="http://www.linode.com/?r=f1f14331bd4d366782ca5dfd24d9ecef8ac0cab5">解析</a>
 					</td>
 					<td class="money-back">
-						<a target="_blank" href="http://www.linode.com/?r=f1f14331bd4d366782ca5dfd24d9ecef8ac0cab5">30 天</a>
+						<a target="_blank" href="http://www.linode.com/?r=f1f14331bd4d366782ca5dfd24d9ecef8ac0cab5">随时</a>
 					</td>
 					<td class="performance">
 						<p><a target="_blank" href="http://www.linode.com/?r=f1f14331bd4d366782ca5dfd24d9ecef8ac0cab5">可靠性</a></p>
